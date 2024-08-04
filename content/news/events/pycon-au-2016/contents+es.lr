@@ -18,6 +18,8 @@ speaker: Russell Keith-Magee
 ---
 talk_title: Keynote
 ---
+upcoming: no
+---
 url:
 ---
 _template: event.html

@@ -17,3 +17,5 @@ event_type: talk
 speaker: Russell Keith-Magee
 ---
 talk_title: Red User, Blue User, MyUser, auth.User
+---
+upcoming: no
